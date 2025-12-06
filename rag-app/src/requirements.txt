@@ -1,5 +1,5 @@
 
-# LangChain Core
+# LangChain
 langchain
 langchain-core
 
